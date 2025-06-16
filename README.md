@@ -1,0 +1,2 @@
+# KnapsackC
+Knapsack in C
