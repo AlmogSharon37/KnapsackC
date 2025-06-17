@@ -1,2 +1,2 @@
 # KnapsackC
-Knapsack in C
+Knapsack in C!
